@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
-- 👨‍💻 All of my projects are available at [https://anchal275.github.io/](https://anchal275.github.io/)
+- 👨‍💻 [All of my projects are available at] [https://anchal275.github.io/](https://anchal275.github.io/)
 
 - 💬 Ask me about **Core Java**
 

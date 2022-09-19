@@ -8,12 +8,9 @@
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
-- 👨‍💻  [My Portfolio](https://anchal275.github.io/)
-- - ⚡ Know more: [My Portfolio](https://nethra-oon7mwb6e-nethravathi1997.vercel.app/)
+- 👨‍💻 Know more: [My Portfolio](https://anchal275.github.io/)
 
 - 💬 Ask me about **Core Java**
-
-
 
 - 📫 How to reach me **anchaljaiswal275@gmail.com**
 

@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anchaljaiswal275@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/14_twqd-D4l2RppwudscEa_GQBm900MHb/view)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/14_twqd-D4l2RppwudscEa_GQBm900MHb/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

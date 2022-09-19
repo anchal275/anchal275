@@ -8,7 +8,8 @@
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
-- 👨‍💻  Portfolio] [![Portfolio](https://anchal275.github.io/](https://anchal275.github.io/)]
+- 👨‍💻  [My Portfolio](https://anchal275.github.io/](https://anchal275.github.io/)
+- Portfolio] [![Portfolio](https://anchal275.github.io/](https://anchal275.github.io/)]
 
 - 💬 Ask me about **Core Java**
 

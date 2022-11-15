@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anchal-jaiswal-696428171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchal-jaiswal-696428171" height="30" width="40" /></a>
-<a href="https://twitter.com/anchal_jais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-in-alt.svg" alt="anchal-jaiswal" height="30" width="40" /></a>  
+<a href="https://twitter.com/anchal_jais" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/twitter--v1.png" alt="anchal-jaiswal" height="40" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
